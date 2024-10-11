@@ -16,7 +16,7 @@ _Annual Earnings vs. Total Student Debt:_
 This dual-axis line chart compares Annual Earnings with Total Student Debt. It helps to visualize whether student debt levels are increasing in proportion to earnings, highlighting the gap between income and debt growth.
 
 _Debt-to-Earnings Ratio:_
-This chart tracks the Debt-to-Earnings Ratio over time, showing how the burden of student debt relative to income has changed. This ratio provides insights into the sustainability of debt repayment in relation to income levels.\
+This chart tracks the Debt-to-Earnings Ratio over time, showing how the burden of student debt relative to income has changed. This ratio provides insights into the sustainability of debt repayment in relation to income levels.
 
 _Overall Analysis:_
 This graph provides a multi-metric view, showing Annual Earnings, Debt-to-Income Ratio, Total Student Debt, and Unemployment Rate over time. It offers a comprehensive overview of how these metrics have evolved from 2006 to 2024.
