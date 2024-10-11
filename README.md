@@ -4,8 +4,8 @@ This project explores the challenges of student debt in relation to income and u
 
 **Files Included**
 
-Student_Debt_Analysis.csv:
+_Student Debt Query.csv:_
 The final dataset combining student loan debt, annual earnings, and unemployment rates from 2006 onward. This file was generated from SQL queries that joined the data by date for comprehensive analysis.
 
-data_analysis_query.sql:
+_Student Debt Query (SQL).sql:_
 The SQL query used to process and join the data from different sources. This file includes steps to calculate annual earnings from weekly earnings and to calculate debt-to-income ratios.
