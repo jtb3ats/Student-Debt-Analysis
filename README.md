@@ -1,3 +1,5 @@
+**Student-Debt-Analysis Project**
+
 This project explores the challenges of student debt in relation to income and unemployment rates among bachelor’s degree holders in the United States. Using data from the Federal Reserve Economic Data (FRED), the analysis aims to provide insights into how debt levels have changed over time and the implications for recent graduates' ability to repay loans.
 
 **Files Included**
